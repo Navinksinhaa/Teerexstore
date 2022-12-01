@@ -1,0 +1,14 @@
+.Searchbar {
+ display: sticky;   
+ padding: 20px ;
+ align-items: center;
+}
+
+.Search {
+    right: 700px;
+    width: 200px;
+}
+
+.icon {
+    background-color: grey;
+}
