@@ -1,0 +1,10 @@
+.set {
+    display: flex;
+    width: 1000px;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: stretch;
+    padding: 30px;
+    margin-left: 300px;
+    
+}

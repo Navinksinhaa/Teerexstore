@@ -1,0 +1,30 @@
+.category {
+    margin-left: 40px;
+    height: 300px;
+    width: 150px;
+    padding: 40px 40px;
+    background-color: grey;
+    
+    
+}
+
+.color {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.gender {
+    display: flex;
+    flex-direction: column;
+}
+
+.price {
+    display: flex;
+    flex-direction: column;
+}
+
+.type {
+    display: flex;
+    flex-direction: column;
+}
