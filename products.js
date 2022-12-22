@@ -21,5 +21,5 @@ export const PRODUCT_SEARCH="PRODUCT_SEARCH";
                   dispatch(product_error())
             })
             
-        }, 3000);
+        }, 2000);
  }
